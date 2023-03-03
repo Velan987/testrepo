@@ -1,3 +1,3 @@
 interface Test{
-  testmethod()
+  testmethod1()
 }
